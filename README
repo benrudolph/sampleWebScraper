@@ -1,0 +1,7 @@
+This is a very basic scraper that scrapers the links off of Hacker News.
+
+To use:
+
+python ./hn_scraper.py
+
+Output: List of Hacker News links
